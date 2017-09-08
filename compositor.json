@@ -44,8 +44,8 @@
     },
     {
       "component": "header",
-      "heading": "test",
-      "subhead": null,
+      "heading": "Akshan Ish",
+      "subhead": "Senior Designer @ IDEO Munich",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -57,7 +57,9 @@
           "user": "akshanish",
           "repo": "test"
         }
-      ]
+      ],
+      "slug": "",
+      "text": ""
     },
     {
       "component": "article",
